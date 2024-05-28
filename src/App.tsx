@@ -1,8 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Grid from '@material-ui/core/Grid';
-import {IndexPage} from 'page';
 import history from "service/history";
 import {Route, Router, Switch} from "react-router";
 import {indexRoutes} from "route";
